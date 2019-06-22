@@ -1,5 +1,6 @@
-# Back-end
-Backend data from OpenWeatherMap to MongoDb using NodeJs, Express and Mongo DB.
+# Back-end with Raspberry Pi 3
+
+Backend data from OpenWeatherMap to MongoDb using NodeJs and Express.
 
 Tasks Programming:
  - Save data from weather side (OpenWeatherMap) in databases [Backend]. 
@@ -12,4 +13,6 @@ Tasks Programming:
 		<> Wind speed (every 3 hours)
 		<> Wind direction
 		<> Weather picture
-- To test the application, install Nodejs and Mongo DB and then Download and 
+- To test the application, install Nodejs and Mongo DB and then Download the application with all modules (node_modules) to test.
+
+Enjoy!
