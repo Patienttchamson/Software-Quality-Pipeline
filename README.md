@@ -1,4 +1,4 @@
-# Software Quality Pipeline realizable on microcomputers?
+# Is a software Quality Pipeline realizable on microcomputers?
 
 The challenge of continuous integration and continuous delivery of quality software still discourages many companies today from setting up and using
 a software quality stack. In particular, setting up the individual tools, such as source code management, code integration or the deployment of images and connecting
