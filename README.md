@@ -3,7 +3,7 @@
 The challenge of continuous integration and continuous delivery of quality software still discourages many companies today from setting up and using
 a software quality stack. In particular, setting up the individual tools, such as source code management, code integration or the deployment of images and connecting
 them to form a complete system, is initially associated with greater effort. For this reason, this paper examines the extent to which such a software quality stack can be mapped as a cluster on single-board computers. The effort involved in setting up the cluster will be examined in more detail and evaluated in terms of performance using a small web application. The special feature described in this paper is to map the software quality stack as a distributed system on different Raspberry Pi’s.
-To read the complet paper follow the Link: https://github.com/Patienttchamson/Back-end/blob/master/Is%20a%20Software%20Quality%20Pipeline%20realizable%20on%20microcomputers%20-%20SWT2%20-%20HRW.pdf.
+
 
 ## Back-end with Raspberry Pi 3
 
